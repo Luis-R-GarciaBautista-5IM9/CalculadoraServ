@@ -1,0 +1,12 @@
+<web-app>
+    
+    <servlet>
+        <servlet-name>calculus</servlet-name>
+        <servlet-class>CalcuS.calculus</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>calculus</servlet-name>
+        <url-pattern>/calculus</url-pattern>
+    </servlet-mapping>
+   
+</web-app>
